@@ -1,6 +1,5 @@
 garbage_classification/.idea/
 garbage_classification/*.iml
-garbage_classification/*.xml
 
 garbage_classification/out/
 garbage_classification/target/
